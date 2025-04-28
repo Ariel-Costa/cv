@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang = PT-BR>
+<head>
+    <meta charset="UTF-8">
+    <meta name=" viewport" content="viewport=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <link rel="stylesheet" href="css-profile.css">
+</head>
+<body>
+
+     <header>
+      <div id="barralateral" >
+           <img id="profile_img" src="" alt="Foto do Perfil">
+           <h1>Ariel Leandro da Costa - 25 anos</h1>
+           <h3>Itajubá - MG</h3>
+         </header>
+         
+         <hr>
+         
+         <main>
+            
+            <article id="obj">
+               <h1>
+                  Sobre 
+               </h1>
+               
+               <p>
+                  Estou buscando uma oportunidade de estágio para complementar minha formação em Engenharia de Sofware,atualmente no final do segundo período. Possuo conhecimentos básicos em JavaScript, HTML, CSS, além de lógica de programação e experiência leve em desenvolvimento de jogos. Meu objetivo é adquirir conhecimento prático na área e desenvolver minhas habilidades como desenvolvedor e profissional de TI.
+               </p>
+            </article>
+            
+         
+      </div>
+            <hr>
+
+   <article id="formação">
+         <h1>
+               Formação academica
+         </h1>
+         <h4>Engenharia de Software</h4>
+
+         <p>
+             Estácio de Sá | Minas Gerais
+             06/2024 - Cursando
+         </p>
+   </article>
+     
+    <hr>
+
+   <article id="exp">
+     <h1>
+        Experiência e projetos
+    </h1>
+      <h4> </h4>
+      <p> 
+       
+      </p>
+   </article>
+    
+    <hr>
+
+<article id="idioma">
+       <h1>         
+           Idiomas
+       </h1> 
+
+       <p> Ingles: Intermediário</p>  
+       
+      </article>
+      
+      <hr>
+      
+      <h1>
+         Competências
+      </h1>
+      <p>
+         Conhecimento em HTML, CSS e JS além de conceitos básicos em python
+      </p>
+      
+    <hr>
+    
+   </main>
+   
+   <footer>
+      
+      <article id="contato">
+        <h1>
+           Contato
+        </h1>
+   
+        <P>E-mail: ptrb44@gmail.com / arieusenac@gmail.com </P>
+        
+        <p>Celular: 55 35987054962 </p>
+     </article>
+
+     </footer>
+
+
+
+</body>
+</html>
